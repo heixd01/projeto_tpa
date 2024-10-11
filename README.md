@@ -24,8 +24,9 @@ INTEIRO: qualquer número inteiro, negativo, nulo ou positivo
 
 • LÓGICO: conjunto de valores ( FALSO ou VERDADEIRO )
 
-TIPOS DE DADOS 💻 – (Portugol Webstudio)
 
+
+TIPOS DE DADOS 💻 – (Portugol Webstudio)
 • TipoCadeia: Armazenar em uma variável, um texto ou uma quantidade grande de caracteres.
 
 • TipoCaracter: uso de símbolos, letras ou outro tipo de conteúdo.
