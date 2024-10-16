@@ -26,7 +26,7 @@ INTEIRO: qualquer número inteiro, negativo, nulo ou positivo
 
 
 
-TIPOS DE DADOS 💻 – (Portugol Webstudio)
+# TIPOS DE DADOS 💻 – (Portugol Webstudio)
 • TipoCadeia: Armazenar em uma variável, um texto ou uma quantidade grande de caracteres.
 
 • TipoCaracter: uso de símbolos, letras ou outro tipo de conteúdo.
