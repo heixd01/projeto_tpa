@@ -1,1 +1,148 @@
+ALGUNS EXEMPLOS DE ATIVIDADES REALIZADAS EM SALA:
 
+
+
+SEMANA.por 
+
+programa {
+  funcao inicio() {
+    inteiro dia
+
+    escreva("Digite um número de 1 a 7")
+    leia(dia)
+
+    escolha(dia){
+      caso 1: 
+      escreva("Hoje é segunda - feira")
+      pare
+      caso 2:
+      escreva("Hoje é terça - feira")
+      pare
+      caso 3:
+      escreva("Hoje é quarta-feira")
+      pare
+      caso 4:
+      escreva("Hoje é quinta-feira")
+      pare
+      caso 5:
+      escreva("Hoje é sexta-feira")
+      pare
+      caso 6:
+      escreva("Hoje é sábado")
+      pare
+      caso 7:
+      escreva("Hoje é domingo")
+      pare
+
+      caso contrario:
+      escreva("Você digitou um número inválido")
+      pare
+    }
+  }
+}
+
+
+
+Atividade da dupla: Heitor e Vinícius
+
+programa {
+  funcao inicio() {
+    inteiro val
+
+    escreva("DIigite um valor entre 1 e 27: ")
+    leia(val)
+
+    escolha(val){
+    caso 1:
+    escreva(val, " - Sul")
+    pare
+    caso 2:
+    escreva(val, " - Norte")
+    pare
+    caso 3:
+    escreva(val, " - Leste")
+    pare
+    caso 4:
+    escreva(val, " - Oeste")
+    pare
+    caso 5:
+    escreva(val, " - Nordeste")
+    pare
+    caso 6:
+    escreva(val, " - Nordeste")
+    pare
+    caso 7:
+    escreva(val, " - Sudeste")
+    pare
+    caso 8:
+    escreva(val, " - Sudeste")
+    pare
+    caso 9:
+    escreva(val, " - Sudeste")
+    pare
+    caso 10:
+    escreva(val, " - Centro Oeste")
+    pare
+    caso 11:
+    escreva(val, " - Centro Oeste")
+    pare
+    caso 12:
+    escreva(val, " - Centro Oeste")
+    pare
+    caso 25:
+    escreva(val, " - Nordeste")
+    pare
+    caso 26:
+    escreva(val, " - Nordeste")
+    pare
+    caso 27:
+    escreva(val, " - Nordeste")
+    pare
+    caso contrario:
+    escreva("Produto importado")
+    pare
+    }
+  }
+}
+
+
+
+SOMAENQUANTO.por 
+
+programa {
+  funcao inicio() {
+    caracter resp
+    real A, B
+
+    resp = 'S'
+
+    enquanto(resp=='s'ou resp=='S'){
+      escreva("Digite dois números ")
+      leia(A)
+      leia(B)
+      escreva("\nSoma = ", (A+B))
+
+      escreva("\nDeseja continuar (S/N): ")
+      leia(resp)
+
+    }
+  }
+}
+
+
+
+vetor.por 
+
+programa {
+  funcao inicio() {
+    inteiro vetor[10], i
+    para(i = 0; i < 10; i++){
+      escreva("Digite o elemento ", i + 1, " :")
+      leia(vetor[i])
+    }
+    escreva("\nValores lidos:\n")
+        para(i = 0; i <10; i++){
+          escreva("Elemento ", i + 1,": ", vetor[i], "\n")
+        }
+  }
+}
