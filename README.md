@@ -36,3 +36,25 @@ INTEIRO: qualquer número inteiro, negativo, nulo ou positivo
 • TipoLógico:trabalhar com informações do tipo verdadeiro e falso
 
 • TipoReal :armazenar valores que não pertencem aos números inteiros.
+
+
+# ESTRUTURA SE SENAO 👾
+![Captura de tela 2024-11-08 080800](https://github.com/user-attachments/assets/ca5bb002-1a8c-4d55-ab7f-45a04aabb9c7)
+
+# ESTRUTURA PARA 👾
+![image](https://github.com/user-attachments/assets/9217af64-dc50-43d6-8a43-c340fd857a2a)
+
+# ESTRUTURA ESCOLHA CASO 👾
+![image](https://github.com/user-attachments/assets/ddb749a2-096b-47c2-a1ae-bfb16763c602)
+
+# ESTRUTURA ENQUANTO 👾
+![image](https://github.com/user-attachments/assets/81605fbc-1604-4c25-bf0c-9894574fae90)
+
+# ESTRUTURA FAÇA ENQUANTO 👾
+![image](https://github.com/user-attachments/assets/7c9a4e55-09e6-4cf6-9f63-1b23d8fccbc8)
+
+
+
+
+
+
